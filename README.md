@@ -37,5 +37,5 @@ The final cell in the notebook allows the used to input their personal informati
 ***Age is your age in years***  
 ***Fare is in British Pounds at the 1912 currency rate.  The notebook explains how to make the necessary conversions***  
 
-##Summary of Results
+## Summary of Results
 When I entered my personal data for these three variables, the model predicted that I would have had a 20% chance of survival.   
