@@ -24,7 +24,7 @@ import thinkstats2
 import thinkplot
 ```
 
-## Anlaysis Methods Used  
+## Analysis Methods Used  
 * Descriptive statistics  
 * Correlation analyses  
 * Graphic analyses
